@@ -1,0 +1,9 @@
+name: leaflet_mapview_deploy
+account: gulfcouncilportal
+server: shinyapps.io
+appId: 158813
+bundleId: 721842
+url: https://gulfcouncilportal.shinyapps.io/leaflet_mapview_deploy/
+when: 1487858738.46054
+asMultiple: FALSE
+asStatic: FALSE
